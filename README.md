@@ -6,10 +6,10 @@ In this project I am predicting Flight Fare of tickets based on some previous mo
 Travelling through flights has become an integral part of today’s lifestyle as more and more people are opting for faster travelling options.The flight ticket prices increase or decrease every now and then depending on various factors like timing of the flights, destination, and duration of flights various occasions such as vacations or festive season. Therefore, having some basic idea of the flight fares before planningthe trip will surely help many people save money and time.
 
 # Goal:
-The main goal is to predict the fares of the flights based on different factors available in the provided dataset.
+The goal is to predict the fares of the flights based on different factors available in the provided dataset.
 
 # Approach:
-The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
+The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that best fits for the above case.
 
 # Dataset:
 
@@ -18,10 +18,10 @@ https://github.com/Aaric-hub/flightFare/tree/main/Data
 # Project Various Step
 
 # Data Exploration
-I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
+I started exploring datasets using pandas, NumPy,matplotlib, pandas profiling and seaborn.
 
 # Model Selection
-Made many Models But selected RandomForest Regressor.
+Built many Models and out of that i have selected RandomForest Regressor.
 
 # Hyperparameter Optimization
 Using Randomizedsearch CV and GridSearch CV to select the best parameter for training the model
@@ -34,4 +34,4 @@ As per selected trained model is dumped to pickled format for app development
 
 
 # Deployed:
-Deployed on heroku -- https://flightfprediction.herokuapp.com/
+Deployed on heroku -- https://flight1645.herokuapp.com/
