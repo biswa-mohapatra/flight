@@ -40,4 +40,4 @@ Deployed on heroku -- https://flight1645.herokuapp.com/
 https://youtu.be/MLv_b6od37I
 
 # LinkedIn Link:
-
+https://www.linkedin.com/posts/biswajit-mohapatro_inuron-motivation-machinelearning-activity-6910298845008510976-q4Tf?utm_source=linkedin_share&utm_medium=member_desktop_web
