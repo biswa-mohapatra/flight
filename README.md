@@ -35,3 +35,9 @@ As per selected trained model is dumped to pickled format for app development
 
 # Deployed:
 Deployed on heroku -- https://flight1645.herokuapp.com/
+
+# YouTube Link:
+https://youtu.be/MLv_b6od37I
+
+# LinkedIn Link:
+
