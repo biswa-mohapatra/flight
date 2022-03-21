@@ -41,3 +41,6 @@ https://youtu.be/MLv_b6od37I
 
 # LinkedIn Link:
 https://www.linkedin.com/posts/biswajit-mohapatro_inuron-motivation-machinelearning-activity-6910298845008510976-q4Tf?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+# Experience Letter Link:
+https://github.com/Aaric-hub/flight/blob/main/Documentation/Flight_Fare_Prediction_Experience_Letter.pdf
